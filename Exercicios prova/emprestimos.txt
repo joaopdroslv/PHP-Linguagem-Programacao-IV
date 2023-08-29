@@ -1,0 +1,31 @@
+BIBLIOTECA FATEC/PP - 11/04/2023 02:18
+                    
+Nome: JOÃO PEDRO
+Tipo de usuário: professor
+Livro retirado: PHP NOITE
+        
+Data de devolução 21/04/2023
+        
+--------------------------
+
+BIBLIOTECA FATEC/PP - 11/04/2023 02:18
+                
+Nome: YASMIN
+Tipo de usuário: aluno
+Livro retirado: PSICOLOGIA
+        
+Data de devolução 16/04/2023
+        
+--------------------------
+
+BIBLIOTECA FATEC/PP - 11/04/2023 02:18
+                
+Nome: JOSE
+Tipo de usuário: funcionario
+Livro retirado: HARRY POTER
+        
+Data de devolução 16/04/2023
+        
+--------------------------
+        
+        
