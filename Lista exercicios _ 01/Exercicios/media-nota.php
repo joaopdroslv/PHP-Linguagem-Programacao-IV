@@ -14,7 +14,7 @@ if (isset($_GET['enviar'])) {
   if ($media >= 7) {
     $flag_msg = true; // Sucesso 
 
-    // oncatenando string
+    // Concatenando string
     $msg = "<br />Sua média é: "; 
     $msg .= number_format($media,2);
     $msg .= " você foi APROVADO."; 
